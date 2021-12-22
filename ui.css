@@ -1,0 +1,12 @@
+.details__image_bottom:hover {
+    z-index: 1;
+    transition: 3s;
+}
+.details__image:hover {
+    transform: scale(1.1);
+    transition: 3s;
+}
+.gallery__image:hover {
+    transform: scale(1.1);
+    
+}
